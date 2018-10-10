@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/java-try/pom.xml" />
         <option value="$PROJECT_DIR$/incubator-ordernumber/pom.xml" />
+        <option value="$PROJECT_DIR$/thrift-try/pom.xml" />
       </list>
     </option>
   </component>

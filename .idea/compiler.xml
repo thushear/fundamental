@@ -9,12 +9,14 @@
         <module name="incubator-java-iv" />
         <module name="incubator-ordernumber" />
         <module name="java-try" />
+        <module name="thrift-try" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="incubator-java-iv" target="1.8" />
       <module name="incubator-ordernumber" target="1.8" />
       <module name="java-try" target="1.8" />
+      <module name="thrift-try" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
